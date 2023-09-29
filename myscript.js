@@ -18,6 +18,7 @@ $(document).ready(() => {
         }
     })
 })
+
 function nav_func(val){
     if(val == 1){
         $('#nav-1').removeClass('active');
